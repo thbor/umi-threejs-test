@@ -1,0 +1,327 @@
+[
+  {
+    "platType": "ag",
+    "platName": "亚游",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 1, "name": "视讯" },
+      { "code": 2, "name": "老虎机" },
+      { "code": 4, "name": "体育" },
+      { "code": 6, "name": "捕猎" }
+    ],
+    "ingress": [],
+    "lang": [
+      { "code": "1", "name": "简体中文" },
+      { "code": "2", "name": "䌓体中文" },
+      { "code": "3", "name": "英语" },
+      { "code": "4", "name": "日语" },
+      { "code": "5", "name": "韩语" },
+      { "code": "6", "name": "泰文" },
+      { "code": "8", "name": "越南文" },
+      { "code": "9", "name": "柬埔寨语" },
+      { "code": "11", "name": "印尼语" },
+      { "code": "23", "name": "葡萄牙语" }
+    ]
+  },
+  {
+    "platType": "bbin",
+    "platName": "宝盈",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "HKD", "name": "港币" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 1, "name": "视讯" },
+      { "code": 2, "name": "老虎机" },
+      { "code": 3, "name": "彩票" },
+      { "code": 4, "name": "体育" },
+      { "code": 6, "name": "捕猎" },
+      { "code": 7, "name": "棋牌" }
+    ],
+    "ingress": [
+      { "name": "电脑网页", "code": "1" },
+      { "name": "手机网页", "code": "2" },
+      { "name": "App内启动", "code": "4" }
+    ],
+    "lang": [
+      { "code": "zh-cn", "name": "简体中文" },
+      { "code": "zh-tw", "name": "䌓体中文" },
+      { "code": "en-us", "name": "英语" },
+      { "code": "euc-jp", "name": "日语" },
+      { "code": "ko", "name": "韩语" },
+      { "code": "th", "name": "泰文" },
+      { "code": "vi", "name": "越南文" }
+    ]
+  },
+  {
+    "platType": "cq9",
+    "platName": "CQ9",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "HKD", "name": "港币" },
+      { "code": "PHP", "name": "菲律宾比索" },
+      { "code": "THB", "name": "泰铢" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 1, "name": "视讯" },
+      { "code": 2, "name": "老虎机" },
+      { "code": 6, "name": "捕猎" }
+    ],
+    "ingress": [
+      { "name": "电脑网页", "code": "web" },
+      { "name": "手机网页", "code": "mobile" },
+      { "name": "App内启动", "code": "app" }
+    ],
+    "lang": [
+      { "code": "zh-cn", "name": "簡中" },
+      { "code": "en", "name": "英文" },
+      { "code": "th", "name": "泰文" },
+      { "code": "ko", "name": "韓文" },
+      { "code": "id", "name": "印尼文" },
+      { "code": "vn", "name": "越南文" },
+      { "code": "ph", "name": "菲律賓文" },
+      { "code": "de", "name": "德文" },
+      { "code": "da", "name": "丹麥文" },
+      { "code": "es", "name": "西班牙文" },
+      { "code": "fi", "name": "芬蘭文" },
+      { "code": "fr", "name": "法文" },
+      { "code": "it", "name": "義大利文" },
+      { "code": "no", "name": "挪威文" },
+      { "code": "pt-br", "name": "葡萄牙文" },
+      { "code": "ru", "name": "俄罗斯文" },
+      { "code": "se", "name": "瑞典文" },
+      { "code": "tr", "name": "土耳其文" },
+      { "code": "ja", "name": "日文" }
+    ]
+  },
+  {
+    "platType": "dg",
+    "platName": "DG",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "MMK", "name": "缅甸币" },
+      { "code": "THB", "name": "泰铢" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [{ "code": 1, "name": "视讯" }],
+    "ingress": [
+      { "name": "电脑Flash", "code": "web" },
+      { "name": "网站html5", "code": "wap" },
+      { "name": "iOS", "code": "ios" },
+      { "name": "安卓", "code": "android" }
+    ],
+    "lang": [
+      { "code": "en", "name": "英文" },
+      { "code": "cn", "name": "简体中文" },
+      { "code": "tw", "name": "繁体中文" },
+      { "code": "kr", "name": "韩语" },
+      { "code": "th", "name": "泰语" },
+      { "code": "vi", "name": "越南语" }
+    ]
+  },
+  {
+    "platType": "evo",
+    "platName": "EVO",
+    "currency": [
+      { "code": "BRL", "name": "巴西雷亚尔" },
+      { "code": "CNY", "name": "人民币" },
+      { "code": "PHP", "name": "菲律宾比索" },
+      { "code": "THB", "name": "泰铢" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [{ "code": 1, "name": "视讯" }],
+    "ingress": [],
+    "lang": [
+      { "code": "al", "name": "阿尔巴尼亚语" },
+      { "code": "sq", "name": "阿尔巴尼亚语" },
+      { "code": "ar", "name": "阿拉伯语" },
+      { "code": "hy", "name": "亚美尼亚语" },
+      { "code": "bp", "name": "巴西葡萄牙语" },
+      { "code": "bg", "name": "保加利亚语" },
+      { "code": "cf", "name": "加拿大法语" },
+      { "code": "ca", "name": "加泰罗尼亚语、巴伦西亚语" },
+      { "code": "cn", "name": "简体中文" },
+      { "code": "zh", "name": "简体中文" },
+      { "code": "b5", "name": "繁体中文" },
+      { "code": "hr", "name": "克罗地亚语" },
+      { "code": "cs", "name": "捷克语" },
+      { "code": "dk", "name": "丹麦语" },
+      { "code": "da", "name": "丹麦语" },
+      { "code": "nl", "name": "荷兰语" },
+      { "code": "en", "name": "英语" },
+      { "code": "et", "name": "爱沙尼亚语" },
+      { "code": "fi", "name": "芬兰语" },
+      { "code": "fl", "name": "弗拉芒语" },
+      { "code": "fr", "name": "法语" },
+      { "code": "ka", "name": "格鲁吉亚语" },
+      { "code": "de", "name": "德语" },
+      { "code": "el", "name": "希腊语（现代）" },
+      { "code": "he", "name": "希伯来语" },
+      { "code": "hi", "name": "印地语" },
+      { "code": "hu", "name": "匈牙利语" },
+      { "code": "id", "name": "印度尼西亚语" },
+      { "code": "it", "name": "意大利语" },
+      { "code": "ja", "name": "日语" },
+      { "code": "ko", "name": "韩语" },
+      { "code": "lv", "name": "拉脱维亚语" },
+      { "code": "lt", "name": "立陶宛语" },
+      { "code": "ms", "name": "马来语" },
+      { "code": "mn", "name": "蒙古语" },
+      { "code": "no", "name": "挪威语" },
+      { "code": "pl", "name": "波兰语" },
+      { "code": "pt", "name": "葡萄牙语" },
+      { "code": "ro", "name": "罗马尼亚语、摩尔多瓦语、摩尔多瓦语" },
+      { "code": "ru", "name": "俄语" },
+      { "code": "sr", "name": "塞尔维亚语" },
+      { "code": "sk", "name": "斯洛伐克语" },
+      { "code": "sl", "name": "斯洛文尼亚语" },
+      { "code": "es", "name": "西班牙语、卡斯蒂利亚语" },
+      { "code": "sv", "name": "瑞典语" },
+      { "code": "th", "name": "泰语" },
+      { "code": "tr", "name": "土耳其语" },
+      { "code": "ua", "name": "乌克兰语" },
+      { "code": "uk", "name": "乌克兰语" },
+      { "code": "vi", "name": "越南语" }
+    ]
+  },
+  {
+    "platType": "fc",
+    "platName": "FC",
+    "currency": [
+      { "code": "PHP", "name": "菲律宾比索" },
+      { "code": "THB", "name": "泰铢" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 2, "name": "老虎机" },
+      { "code": 6, "name": "捕猎" }
+    ],
+    "ingress": [],
+    "lang": []
+  },
+  {
+    "platType": "jdb",
+    "platName": "夺宝",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "HKD", "name": "港币" },
+      { "code": "PHP", "name": "菲律宾比索" },
+      { "code": "THB", "name": "泰铢" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 2, "name": "老虎机" },
+      { "code": 6, "name": "捕猎" },
+      { "code": 7, "name": "棋牌" }
+    ],
+    "ingress": [
+      { "name": "电脑网页", "code": "false" },
+      { "name": "手机网页", "code": "false" },
+      { "name": "棋牌", "code": "true" }
+    ],
+    "lang": [
+      { "code": "cn", "name": "简体中文" },
+      { "code": "en", "name": "英文" },
+      { "code": "th", "name": "泰文" },
+      { "code": "vn", "name": "越南文" }
+    ]
+  },
+  {
+    "platType": "mg",
+    "platName": "MG",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "PHP", "name": "菲律宾比索" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 1, "name": "视讯" },
+      { "code": 2, "name": "老虎机" },
+      { "code": 6, "name": "捕猎" },
+      { "code": 7, "name": "棋牌" }
+    ],
+    "ingress": [],
+    "lang": [
+      { "code": "ZH-CN", "name": "简体中文" },
+      { "code": "ZH-TW", "name": "繁体中文" },
+      { "code": "EN", "name": "英语" },
+      { "code": "ID", "name": "印尼语" },
+      { "code": "JA", "name": "日语" },
+      { "code": "KO", "name": "韩语" },
+      { "code": "TH", "name": "泰语" },
+      { "code": "VI", "name": "越南语" },
+      { "code": "HI", "name": "印地语" },
+      { "code": "TE", "name": "泰卢固语" }
+    ]
+  },
+  {
+    "platType": "tf",
+    "platName": "雷火电竞",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "HKD", "name": "港币" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [{ "code": 5, "name": "电竞" }],
+    "ingress": [],
+    "lang": []
+  },
+  {
+    "platType": "v8",
+    "platName": "V8 Poker",
+    "currency": [{ "code": "VND", "name": "越南盾" }],
+    "gameType": [{ "code": 7, "name": "棋牌" }],
+    "ingress": [],
+    "lang": []
+  },
+  {
+    "platType": "wm",
+    "platName": "完美",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "HKD", "name": "港币" },
+      { "code": "USD", "name": "美元" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [
+      { "code": 1, "name": "视讯" },
+      { "code": 2, "name": "老虎机" }
+    ],
+    "ingress": [],
+    "lang": [
+      { "code": "0", "name": "简体中文" },
+      { "code": "1", "name": "英文" },
+      { "code": "2", "name": "泰文" },
+      { "code": "3", "name": "越文" },
+      { "code": "4", "name": "日文" },
+      { "code": "5", "name": "韩文" },
+      { "code": "6", "name": "印度文" },
+      { "code": "7", "name": "马来西亚文" },
+      { "code": "8", "name": "印尼文" },
+      { "code": "9", "name": "繁体中文" },
+      { "code": "10", "name": "西文" }
+    ]
+  },
+  {
+    "platType": "ww",
+    "platName": "双赢",
+    "currency": [
+      { "code": "CNY", "name": "人民币" },
+      { "code": "VND", "name": "越南盾" }
+    ],
+    "gameType": [{ "code": 7, "name": "棋牌" }],
+    "ingress": [],
+    "lang": [{ "code": "zh-CN", "name": "简体中文" }]
+  }
+]

@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+}
+/*td.ant-table-cell:empty::after {*/
+/*    content: '--' ;*/
+/*    color: red;*/
+/*}*/
+/*td.ant-table-cell *:empty::after {*/
+/*    content: '--' ;*/
+/*    color: blue;*/
+/*}*/
+.ant-table-row *:empty::after {
+    content: '--' ;
+    font-weight: 600;
+    color: deeppink;
+}
+.wei{
+    background: red;
+    height: 41.35px;
+    width: 30px;
+    float: right;
+}
+.text-show-more::before{
+    content: "";
+    background: red;
+    /*height: 40px;*/
+    /*height: 41px;*/
+    height: 41.35px;
+    width: 30px;
+    float: right;
+}
+.zk-btn::before{
+    content: '...';
+    position: absolute;
+    left: -10px;
+    color: #333;
+    transform: translateX(-100%)
+
+}
+.parent-box{
+    line-height: 1.5;
+    max-height: 4.5em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
+    /*display: -webkit-box;*/
+    /*-webkit-box-orient: vertical;*/
+    /*-webkit-line-clamp: 3;*/
+    /*line-height: 1.5;*/
+    /*max-height: 4.5em;*/
+    /*overflow: hidden;*/
+
+
+}
+.text{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+#exp:checked+.text{
+    -webkit-line-clamp: 999; /*设置一个足够大的行数就可以了*/
+}
+.text::before{
+    content: "";
+    background: red;
+    width: 0;
+    float: right;
+    height: calc(100% - 20px);
+}
+.btn{
+    float: right;
+    clear: both;
+}
+.btn::after{
+    content:'展开' /*采用content生成*/
+}
+#exp:checked+.text .btn::after{
+    content:'收起'
+}
